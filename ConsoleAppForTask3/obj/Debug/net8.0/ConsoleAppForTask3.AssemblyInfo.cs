@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppForTask3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b134595ac4383255af423b3f5218a28cacb8d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e86074efa77d62e2e75a45b7277dca0f124317")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppForTask3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppForTask3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
