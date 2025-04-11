@@ -3,6 +3,9 @@
     private static void Main(string[] args)
     {
         int x = 5;
-        Console.WriteLine(x);
+        for (int i = 0; i < x; i++)
+        {
+            Console.WriteLine(x);
+        }
     }
 }

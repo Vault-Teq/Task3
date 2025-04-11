@@ -12,3 +12,4 @@ C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\n
 C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.pdb
 C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.genruntimeconfig.cache
 C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ref\ConsoleAppForTask3.dll
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.sourcelink.json
