@@ -1,0 +1,14 @@
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\bin\Debug\net8.0\ConsoleAppForTask3.exe
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\bin\Debug\net8.0\ConsoleAppForTask3.deps.json
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\bin\Debug\net8.0\ConsoleAppForTask3.runtimeconfig.json
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\bin\Debug\net8.0\ConsoleAppForTask3.dll
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\bin\Debug\net8.0\ConsoleAppForTask3.pdb
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.AssemblyInfoInputs.cache
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.AssemblyInfo.cs
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.csproj.CoreCompileInputs.cache
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.dll
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\refint\ConsoleAppForTask3.dll
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.pdb
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ConsoleAppForTask3.genruntimeconfig.cache
+C:\Users\slavbuk2\source\repos\ConsoleAppForTask3\ConsoleAppForTask3\obj\Debug\net8.0\ref\ConsoleAppForTask3.dll

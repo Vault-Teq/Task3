@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppForTask3/1.0.0": {
+        "runtime": {
+          "ConsoleAppForTask3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppForTask3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
